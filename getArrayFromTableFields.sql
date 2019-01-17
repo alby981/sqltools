@@ -11,5 +11,5 @@ END //
 delimiter ;
 
 
-call getArrayFromTableFields('profiles', 'cockpit_baybets_net_new');
+call getArrayFromTableFields('your_table_name', 'your_database_name');
 
